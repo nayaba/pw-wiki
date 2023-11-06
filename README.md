@@ -10,16 +10,16 @@ This module emphasizes the importance of understanding basics before diving into
 
 Are you feeling like you need a quick refresher on JavaScript before jumping into full-time learning?  Then these are the resources for you!
 
-🆘 If you're short on time, please prioritize Intro to JavaScript, Console, Variables, Data Types, Operators, and Functions
+🆘 If you're short on time, please prioritize Intro to JavaScript, Using the Console, Variables, Data Types, Operators, and Functions
 
 1. [Introduction to JavaScript and CodePen.io](https://github.com/nayaba/pw-lesson-01)
-2. [JavaScript Console](https://github.com/nayaba/pw-lesson-02)
-3. [JavaScript Syntax & Comments](https://github.com/nayaba/pw-lesson-03)
-4. [JavaScript Variables](https://github.com/nayaba/pw-lesson-04)
-5. [JavaScript Data Types](https://github.com/nayaba/pw-lesson-05)
-6. [JavaScript Operators](https://github.com/nayaba/pw-lesson-06)
-7. [JavaScript Control Structures](https://github.com/nayaba/pw-lesson-07)
-8. [JavaScript Functions](https://github.com/nayaba/pw-lesson-08)
+2. [Using the Console](https://github.com/nayaba/pw-lesson-02)
+3. [Syntax & Comments](https://github.com/nayaba/pw-lesson-03)
+4. [Variables](https://github.com/nayaba/pw-lesson-04)
+5. [Data Types](https://github.com/nayaba/pw-lesson-05)
+6. [Operators](https://github.com/nayaba/pw-lesson-06)
+7. [Control Structures](https://github.com/nayaba/pw-lesson-07)
+8. [Functions](https://github.com/nayaba/pw-lesson-08)
 
 ## Getting Ready for Class
 
