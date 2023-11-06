@@ -35,7 +35,7 @@ Get ready to immerse yourself in the world of coding with tips on how to approac
 
 From messaging platforms to keyboard shortcuts, learn how to set up your digital workspace.
 
-### [Intro to Developer Tools](#)
+### [Intro to Developer Tools](https://github.com/nayaba/pw-dev-tools)
 
 A brief overview of the tools developers use daily, and why they're important for you.
 
