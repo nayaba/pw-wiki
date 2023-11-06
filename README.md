@@ -23,7 +23,7 @@ Before we dive into the world of JavaScript, let's make sure you're fully equipp
 
 🆘 If you're short on time, please prioritize Adopting the Bootcamp Mindset
 
-### [Adopting the Bootcamp Mindset](#)
+### [Adopting the Bootcamp Mindset](https://seiremote.notion.site/Bootcamp-Mindset-4a3b687a2357409abc79a1d0eae41f59)
 
 In order to provide individuals with a strong foundation for successfully navigating through coding bootcamps, as well as equip individuals with a robust framework for success, students will review an article which discusses the importance of self-advocacy, involving family and friends for support, setting short-term and long-term goals, preparing a conducive workspace, and maintaining the right motivation towards becoming a software engineer. 
 
@@ -35,7 +35,7 @@ From text editors to debugging tools, learn how to set up your digital workspace
 
 A brief overview of the tools developers use daily, and why they're important for you.
 
-### [OMG I'm Starting to Freak Out](#)
+### [OMG I'm Starting to Freak Out](https://seiremote.notion.site/PANIC-BUTTON-Question-List-33ba1112a68f4d51801d5dff09c11534)
 
 Feeling overwhelmed? Don't worry, it's normal! Check out this section for strategies to manage stress and keep cool as you start coding.
 
