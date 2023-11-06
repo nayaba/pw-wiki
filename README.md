@@ -31,7 +31,7 @@ As we're on the cusp of diving into the JavaScript universe, know that **all the
 
 Get ready to immerse yourself in the world of coding with tips on how to approach your learning journey.
 
-### [Organizing Your Learning Tools](https://github.com/nayaba/pw-organizing/blob/main/README.md)
+### [Organizing Your Learning Tools](https://github.com/nayaba/pw-organizing)
 
 From messaging platforms to keyboard shortcuts, learn how to set up your digital workspace.
 
