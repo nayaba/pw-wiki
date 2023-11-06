@@ -46,3 +46,14 @@ Feeling overwhelmed? Don't worry, it's normal! Check out this section for strate
 ---
 
 Remember, coding is a path of continuous learning. The more you practice, the better you'll get. So, stay curious, keep experimenting, and don't be afraid to make mistakes. See you in class!
+
+---
+**_*A note about plagiarism_**
+
+Picture this: even seasoned developers, the ones who've been in the trenches for years, sometimes need to look up how to do things. Like a line of code for finding even numbers, or centering a div on a webpage. Totally normal! The key, though, is they understand the code snippets they find online before they use them.
+
+You're on this adventure to become a bona fide code wizard. That means getting into the nitty-gritty, untangling bugs, and having those lightbulb moments when a concept clicks. It's not about learning to ask AI like ChatGPT, the right questions. If you're asking ChatGPT to generate code for you, it's crucial to recognize that you might be bypassing a valuable learning experience. Understanding the logic and thought process behind the code is what molds you into a developer.  It's about understanding the answers so you can conjure up the solutions on your own.
+
+If you ever feel lost in the code forest, wave a flag! Your instructor is there to be your guide, your mentor. Reach out, ask questions, and get clarity. That's how you grow, how you get better, and how you truly learn to code.
+
+You've got this. And we're all here to support you on your journey to becoming a coding champ! 🚀
