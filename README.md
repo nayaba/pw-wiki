@@ -4,17 +4,23 @@ Here's your roadmap to becoming a JavaScript ninja! Click through the lessons be
 
 ## JavaScript Lessons
 
+Are you feeling like you need a quick refresher on JavaScript before jumping into full-time learning?  Then these are the resources for you!
+
+🆘 If you're short on time, please prioritize Variables, Data Types, Operators, and Functions
+
 1. [Introduction to JavaScript and CodePen.io](#)
-2. [JavaScript Data Types](#)
-3. [JavaScript Operators](#)
-4. [JavaScript Control Structures](#)
-5. [JavaScript Functions](#)
-6. [JavaScript Syntax and Comments](#)
-7. [JavaScript Variables](#)
+2. [JavaScript Syntax & Comments](#)
+3. [JavaScript Variables](#)
+4. [JavaScript Data Types](#)
+5. [JavaScript Operators](#)
+6. [JavaScript Control Structures](#)
+7. [JavaScript Functions](#)
 
 ## Getting Ready for Class
 
 Before we dive into the world of JavaScript, let's make sure you're fully equipped and in the right mindset for this coding bootcamp.
+
+🆘 If you're short on time, please prioritize Adopting the Bootcamp Mindset
 
 ### [Adopting the Bootcamp Mindset](#)
 
