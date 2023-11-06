@@ -2,6 +2,10 @@
 
 Here's your roadmap to becoming a JavaScript ninja! Click through the lessons below to learn at your own pace, and make sure to check out the "Getting Ready for Class" section to prepare for an exciting adventure in coding.
 
+### Objective
+
+This module emphasizes the importance of understanding basics before diving into Day 1 learning. Through this module, students will be better prepared to navigate the bootcamp environment and the technical curriculum effectively.
+
 ## JavaScript Lessons
 
 Are you feeling like you need a quick refresher on JavaScript before jumping into full-time learning?  Then these are the resources for you!
