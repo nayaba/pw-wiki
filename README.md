@@ -29,7 +29,7 @@ As we're on the cusp of diving into the JavaScript universe, know that **all the
 
 ### [Adopting the Bootcamp Mindset](https://seiremote.notion.site/Bootcamp-Mindset-4a3b687a2357409abc79a1d0eae41f59)
 
-In order to provide individuals with a strong foundation for successfully navigating through coding bootcamps, as well as equip individuals with a robust framework for success, students will review an article which discusses the importance of self-advocacy, involving family and friends for support, setting short-term and long-term goals, preparing a conducive workspace, and maintaining the right motivation towards becoming a software engineer. 
+Get ready to immerse yourself in the world of coding with tips on how to approach your learning journey.
 
 ### [Organizing Your Learning Tools](https://github.com/nayaba/pw-organizing/blob/main/README.md)
 
