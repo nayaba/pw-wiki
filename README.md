@@ -25,7 +25,7 @@ Before we dive into the world of JavaScript, let's make sure you're fully equipp
 
 ### [Adopting the Bootcamp Mindset](#)
 
-Get ready to immerse yourself in the world of coding with tips on how to approach your learning journey.
+In order to provide individuals with a strong foundation for successfully navigating through coding bootcamps, as well as equip individuals with a robust framework for success, students will review an article which discusses the importance of self-advocacy, involving family and friends for support, setting short-term and long-term goals, preparing a conducive workspace, and maintaining the right motivation towards becoming a software engineer. 
 
 ### [Organizing Your Learning Tools](#)
 
