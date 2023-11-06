@@ -23,7 +23,7 @@ Are you feeling like you need a quick refresher on JavaScript before jumping int
 
 ## Getting Ready for Class
 
-Before we dive into the world of JavaScript, let's make sure you're fully equipped and in the right mindset for this coding bootcamp.
+As we're on the cusp of diving into the JavaScript universe, know that **all the tools and concepts we're introducing below will be unpacked in greater detail on the first day of class**. There's no pressure for you to get everything down pat right now. This is just a preliminary peek, so when we do cover it all on day one, it'll feel like a familiar rerun rather than a brand-new show. If you're itching to get a leg up, by all means, dip your toes into the material—but know that a deep dive is scheduled for day one!
 
 🆘 If you're short on time, please prioritize Adopting the Bootcamp Mindset
 
