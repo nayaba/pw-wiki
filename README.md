@@ -48,7 +48,7 @@ Feeling overwhelmed? Don't worry, it's normal! Check out this section for strate
 Remember, coding is a path of continuous learning. The more you practice, the better you'll get. So, stay curious, keep experimenting, and don't be afraid to make mistakes. See you in class!
 
 ---
-**_*A note about plagiarism_**
+**_A note about plagiarism_**
 
 Picture this: even seasoned developers, the ones who've been in the trenches for years, sometimes need to look up how to do things. Like a line of code for finding even numbers, or centering a div on a webpage. Totally normal! The key, though, is they understand the code snippets they find online before they use them.
 
